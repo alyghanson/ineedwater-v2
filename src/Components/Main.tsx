@@ -1,13 +1,13 @@
 // Main App page
-import React from "react";
+import Greetings from "./Greeting";
+
 
 function Main() {
   return (
     <div>
-      <h1>Main Page</h1>
-      <p>Here we will preform most functions</p>
+        <Greetings/>
+        <p>What would you like to do? Add the buttons below</p>
     </div>
   );
 }
-
 export default Main;
