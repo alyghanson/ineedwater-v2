@@ -1,12 +1,11 @@
-// Home.js
+// Home.tsx
 import React from 'react';
-
 
 function Home() {
   return (
     <div>
-      <h1>Home</h1>
-      <p>Welcome to our website!</p>
+      <h1>Welcome to iNeedWater</h1>
+      <p>Login or Register to get started!!</p>
     </div>
   );
 }
